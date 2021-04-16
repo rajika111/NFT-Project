@@ -2,8 +2,7 @@
 
 # dependencies
 /node_modules
-
-# ./nft_code/node_modules
+./nft_code/node_modules
 ./nft_code/.pnp
 ./nft_code/.pnp.js
 
