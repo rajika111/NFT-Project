@@ -2,24 +2,24 @@
 
 # dependencies
 /node_modules
-./nft_code/node_modules
-./nft_code/.pnp
-./nft_code/.pnp.js
+# nft_code/node_modules
+# nft_code/.pnp
+# nft_code/.pnp.js
 
-# testing
-./nft_code/coverage
+# # testing
+# nft_code/coverage
 
-# production
-./nft_code/build
+# # production
+# nft_code/build
 
-# misc
-./nft_code/.DS_Store
-./nft_code/.env
-./nft_code/.env.local
-./nft_code/.env.development.local
-./nft_code/.env.test.local
-./nft_code/.env.production.local
+# # misc
+# nft_code/.DS_Store
+# nft_code/.env
+# nft_code/.env.local
+# nft_code/.env.development.local
+# nft_code/.env.test.local
+# nft_code/.env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# nft_code/npm-debug.log*
+# nft_code/yarn-debug.log*
+# nft_code/yarn-error.log*
