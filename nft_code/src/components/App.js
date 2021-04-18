@@ -79,7 +79,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Art Tokens
+            Art Tokens -Coding Dojo - Satoshi Team
           </a>
           <ul className="navbar-nav px-3">
             <li className="nav-item text-nowrap d-none d-sm-none d-sm-block">
@@ -91,7 +91,7 @@ class App extends Component {
           <div className="row">
             <main role="main" className="col-lg-12 d-flex text-center">
               <div className="content mr-auto ml-auto">
-                <h1>Issue Token</h1>
+                <h1>Issue your Art Token</h1>
                 <form onSubmit={(event) => {
                   event.preventDefault()
                   const art = this.art.value
