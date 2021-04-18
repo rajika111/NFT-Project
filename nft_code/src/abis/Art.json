@@ -1807,8 +1807,8 @@
       "transactionHash": "0xb47a33e6f4784164114f2936503f8fcd395dbd3a3919115f9ea993a70d256918"
     }
   },
-  "schemaVersion": "3.0.2",
-  "updatedAt": "2021-04-16T00:18:37.142Z",
+  "schemaVersion": "3.0.1",
+  "updatedAt": "2021-04-18T02:40:25.877Z",
   "devdoc": {
     "methods": {
       "approve(address,uint256)": {
