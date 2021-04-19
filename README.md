@@ -6,3 +6,6 @@
 * install npm using `npm i`
 * enter the project code 'nft_code', `cd nft_code`
 * install npm in the project using `npm i`
+
+### Instractor ro run the project 
+ * to run Truffle `Truffle compile

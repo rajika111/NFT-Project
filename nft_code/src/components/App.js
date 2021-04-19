@@ -15,7 +15,7 @@ class App extends Component {
       await window.ethereum.enable()
     }
     else if (window.web3) {
-      window.web3 = new Web3(window.new.Web3.providers.HttpProvider("http://127.0.0.1:8545"),)
+      window.web3 = new Web3(window.new.Web3.providers.HttpProvider("HTTP://127.0.0.1:7545"),)
     }
     else {
       window.alert('non Ethereum browser detected. Dowload Metamask')
