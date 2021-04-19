@@ -23,3 +23,9 @@ nft_code/.env.production.local
 nft_code/npm-debug.log*
 nft_code/yarn-debug.log*
 nft_code/yarn-error.log*
+
+nft_code/nft_code/build
+nft_code/app/dist
+nft_code/app/node_modules
+
+nft_code/ethereumdapp/app/.gitignore

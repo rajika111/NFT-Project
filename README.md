@@ -9,3 +9,5 @@
 
 ### Instractor ro run the project 
  * to run Truffle `Truffle compile
+ * then `Truffle margrate
+ * S
