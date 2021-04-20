@@ -1,6 +1,7 @@
 # NFT-Project
 
 ## Overview
+Our project will build NFT (non-fungible token) smart contracts on ERC721 tokens using solidity, it will show minted images on these tokens. Those minted images (NFT contracts on  ERC721 tokens) will be tradable as unique assets. Once we achieve that we will start trading them, first on NFT trading platforms like opensea.io. Then building our own unique website to trade them. 
 
 
 
@@ -28,3 +29,7 @@
 - It will ask you for a color hash to mint
 - It will send a request for your meta-mask wallet, make sure your meta-mask wallet connected to the local host network, it uses 7545 port
 - It will issue a request
+
+### Project screenshots
+
+![open_wallet_order](images/open_wallet_order.png)
