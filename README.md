@@ -34,5 +34,5 @@ Our project will build NFT (non-fungible token) smart contracts on ERC721 tokens
 
 ![open_wallet_order](images/open_wallet_order.png)
 
-# my opensea account
+#### my opensea account
 https://opensea.io/accounts/RayG
